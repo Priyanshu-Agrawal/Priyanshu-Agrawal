@@ -2,7 +2,7 @@
 
 ###
 <div align='center'>
-  <img align="center" height="150" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  />
+  <img align="center" height="200" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  />
 </div>
 
 ###
@@ -43,14 +43,17 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Priyanshu-Agrawal/Priyanshu-Agrawal/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Priyanshu-Agrawal/Priyanshu-Agrawal/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- <a href="https://spotify-recently-played-readme.vercel.app/api?user=ndtb2en0bqgevlmxlt80f6vhl"> -->
-    <!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=ndtb2en0bqgevlmxlt80f6vhl&count=5&unique=true" alt="Spotify recently played"  /> -->
-  <!-- </a> -->
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true) -->
