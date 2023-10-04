@@ -41,7 +41,7 @@
 ###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,androidstudio,mongodb,express,react,nodejs" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
 </div>
 
 ###
