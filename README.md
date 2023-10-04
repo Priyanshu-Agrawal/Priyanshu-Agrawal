@@ -40,7 +40,7 @@ Happy coding, dear companions! 😊🚀</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="border-radius:30%" alt="typescript logo"  />
   <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="50" width="50" style="box-sizing:border-box;border-radius:30%;background:#333333;padding:5px;" alt="microsoftsqlserver logo"  />
   <img src="https://skillicons.dev/icons?i=java,androidstudio,mongodb,express,react,nodejs" />
-  <img src="https://icon-icons.com/downloadimage.php?id=132404&root=2148/PNG/512/&file=expo_icon_132404.png" height="50" width="50" style="border-radius:30%;background:#ccc;padding:5;box-sizing:border-box" alt="microsoftsqlserver logo"  />
+  <img src="https://img.icons8.com/fluency/48/000000/expo.png" height="50" width="50" style="border-radius:30%;" alt="microsoftsqlserver logo"  />
 </div>
 <hr>
 
