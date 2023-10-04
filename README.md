@@ -11,7 +11,8 @@
   <img src="https://github-readme-stats-self-rho-27.vercel.app/api?username=Priyanshu-Agrawal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=5" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=tokyonight&utcOffset=5.30" height="150">
   <img src="https://github-readme-stats-self-rho-27.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats-two-ashen.vercel.app/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" height="150"/>
+  <br>
+  <img src="https://github-readme-streak-stats-two-ashen.vercel.app/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" height="180"/>
 </div>
 
 ###
@@ -25,7 +26,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" style="border-radius:30%" alt="typescript logo"  />
-  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="50" width="50" style="border-radius:30%;background:#333;padding:5;box-sizing:border-box" alt="microsoftsqlserver logo"  />
+  <img src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" height="50" width="50" style="box-sizing:border-box;border-radius:30%;background:#333333;padding:5px;" alt="microsoftsqlserver logo"  />
   <img src="https://skillicons.dev/icons?i=java,androidstudio,mongodb,express,react,nodejs" />
   <img src="https://icon-icons.com/downloadimage.php?id=132404&root=2148/PNG/512/&file=expo_icon_132404.png" height="50" width="50" style="border-radius:30%;background:#ccc;padding:5;box-sizing:border-box" alt="microsoftsqlserver logo"  />
 </div>
