@@ -47,6 +47,11 @@
 
 ###
 
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+###
+
 <div align="center">
   <!-- <a href="https://spotify-recently-played-readme.vercel.app/api?user=ndtb2en0bqgevlmxlt80f6vhl"> -->
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true">
