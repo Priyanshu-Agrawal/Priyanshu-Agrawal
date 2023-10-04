@@ -2,7 +2,7 @@
 
 ###
 <div align='center'>
-  <img align="center" height="150" src="./assets/myLogo-removedBG.png"  />
+  <img align="center" height="150" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  />
 </div>
 
 ###
