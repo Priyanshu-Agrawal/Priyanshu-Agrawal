@@ -80,6 +80,14 @@ Happy coding, dear companions! 😊🚀</p>
 <!-- <img src="https://raw.githubusercontent.com/Priyanshu-Agrawal/Priyanshu-Agrawal/output/snake.svg" alt="Snake animation" /> -->
 
 ###
+<h2>My Contributions: </h2>
+<div align="center">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://priyanshu-agrawal.github.io/Priyanshu-Agrawal/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://priyanshu-agrawal.github.io/Priyanshu-Agrawal/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
+</div>
 
   <!--START_SECTION:waka-->
 
