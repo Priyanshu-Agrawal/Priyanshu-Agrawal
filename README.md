@@ -82,7 +82,12 @@ Happy coding, dear companions! 😊🚀</p>
 ###
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 ###
 <h2>🎧Hobbies 🎵🎮:</h2>
