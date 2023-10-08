@@ -88,6 +88,8 @@ Happy coding, dear companions! 😊🚀</p>
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
+<br>
+<img src="https://wakatime.com/badge/user/018afb53-d997-4c3d-99a2-9a4a91091911.svg?style=social" />
 
   <!--START_SECTION:waka-->
 
