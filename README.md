@@ -3,7 +3,8 @@
 ###
 <div align='center'>
   <a href="https://github.com/Scripting-Bear">
-    <img align="center" height="200" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  />
+<!--     <img align="center" height="200" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  /> -->
+    <img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/my_logo_recoloration-removebg-preview.png?alt=media&token=e73e09d6-96d8-498c-a848-fbf39d765da1"  />
     <br>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=435&lines=Priyanshu+Agrawal;Scripting+Bear" alt="Typing SVG" /></a>
   </a>
@@ -81,13 +82,13 @@ Happy coding, dear companions! 😊🚀</p>
 
 ###
 <h2>My Contributions 🤝:</h2>
-<div align="center">
+<!-- <div align="center">
     <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://priyanshu-agrawal.github.io/Priyanshu-Agrawal/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://priyanshu-agrawal.github.io/Priyanshu-Agrawal/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
-</div>
+</div> -->
 <br>
 <img src="https://wakatime.com/badge/user/018afb53-d997-4c3d-99a2-9a4a91091911.svg?style=social" />
 
