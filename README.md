@@ -51,9 +51,9 @@ Happy coding, dear companions! 😊🚀</p>
 
 <h2>📈My Stats 📊:</h2>
 <div align="center">
-  <img src="https://github-readme-stats-self-rho-27.vercel.app/api?username=Priyanshu-Agrawal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-phi-henna-78.vercel.app/api?username=Priyanshu-Agrawal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=5" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=tokyonight&utcOffset=5.30" height="150">
-  <img src="https://github-readme-stats-self-rho-27.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-phi-henna-78.vercel.app//api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="languages graph"  />
   <br>
   <img src="https://github-readme-streak-stats-two-ashen.vercel.app/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" height="180"/>
 </div>
