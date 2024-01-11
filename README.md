@@ -49,26 +49,29 @@ Happy coding, dear companions! 😊🚀</p>
 
 ###
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&show_icons=true&hide_title=false&hide_rank=true&include_all_commits=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&border_radius=5)-->
-
 <h2>📈My Stats 📊:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=5#gh-dark-mode-only" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=default&show_icons=true&hide_border=true&count_private=true&border_radius=5#gh-light-mode-only" height="150" alt="stats graph" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=tokyonight&utcOffset=5.30#gh-dark-mode-only" height="150">
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=default&utcOffset=5.30#gh-light-mode-only" height="150">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5#gh-dark-mode-only" height="150" alt="languages graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&border_radius=5#gh-light-mode-only" height="150" alt="languages graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5#gh-dark-mode-only" alt="Priyanshu-Agrawal's Streak" height="180">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=default&hide_border=true&mode=weekly&border_radius=5#gh-light-mode-only" alt="Priyanshu-Agrawal's Streak" height="180">
+ <picture>
+   <source srcset="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=5" media="(prefers-color-scheme: dark)">
+   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=default&show_icons=true&hide_border=true&count_private=true&border_radius=5" alt="stats graph" height="150">
+ </picture>
+ 
+ <picture>
+   <source srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=tokyonight&utcOffset=5.30" media="(prefers-color-scheme: dark)">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-Agrawal&theme=default&utcOffset=5.30" alt="Productive Time" height="150">
+ </picture>
+ 
+ <picture>
+   <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" media="(prefers-color-scheme: dark)">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&border_radius=5" alt="languages graph" height="150">
+ </picture>
+ 
+ <picture>
+   <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5" media="(prefers-color-scheme: dark)">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=default&hide_border=true&mode=weekly&border_radius=5" alt="Priyanshu-Agrawal's Streak" height="180">
+ </picture>
 </div>
+
 
 <hr>
 
