@@ -53,7 +53,7 @@ Happy coding, dear companions! 😊🚀</p>
 <div align="center">
  <picture>
    <source srcset="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&border_radius=5" media="(prefers-color-scheme: dark)">
-   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=default&show_icons=true&hide_border=true&count_private=true&border_radius=5" alt="stats graph" height="150">
+   <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Agrawal&hide_rank=true&theme=default&show_icons=true&hide_border=false&count_private=true&border_radius=5" alt="stats graph" height="150">
  </picture>
  
  <picture>
@@ -63,12 +63,12 @@ Happy coding, dear companions! 😊🚀</p>
  
  <picture>
    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" media="(prefers-color-scheme: dark)">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&border_radius=5" alt="languages graph" height="150">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&border_radius=5" alt="languages graph" height="150">
  </picture>
  
  <picture>
    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5" media="(prefers-color-scheme: dark)">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=default&hide_border=true&mode=weekly&border_radius=5" alt="Priyanshu-Agrawal's Streak" height="180">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=default&hide_border=false&mode=weekly&border_radius=5" alt="Priyanshu-Agrawal's Streak" height="180">
  </picture>
 </div>
 
@@ -125,12 +125,16 @@ Bash         6 mins          ░░░░░░░░░░░░░░░░░
 ###
 <h2>🎧Hobbies 🎵🎮:</h2>
 
-<div align="center">
-  <!-- <a href="https://spotify-recently-played-readme.vercel.app/api?user=ndtb2en0bqgevlmxlt80f6vhl"> -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true" alt="Spotify recently played"  height="400px"/>
-  </a>
+
+<div align="start">
+ <a href="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true">
+   <picture>
+     <source srcset="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true" media="(prefers-color-scheme: dark)">
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=false&background_color=777777&interchange=false&bar_color=4e62b1&bar_color_cover=true" alt="Spotify recently played" height="400px"/>
+   </picture>
+ </a>
 </div>
+
 
 ###
 
