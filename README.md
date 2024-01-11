@@ -6,9 +6,10 @@
 <!--     <img align="center" height="200" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  /> -->
     <img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/my_logo_recoloration-removebg-preview.png?alt=media&token=e73e09d6-96d8-498c-a848-fbf39d765da1"  />
     <br>
-<!--     <a href="https://git.io/typing-svg"> -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=435&lines=Priyanshu+Agrawal;Scripting+Bear" alt="Typing SVG" />
-<!--     </a> -->
+    <picture>
+   <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&lines=Priyanshu+Agrawal;Scripting+Bear" media="(prefers-color-scheme: dark)">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&color=044655&lines=Priyanshu+Agrawal;Scripting+Bear" alt="Typing SVG" />
+ </picture>
   </a>
 </div>
 
@@ -130,7 +131,7 @@ Bash         6 mins          ░░░░░░░░░░░░░░░░░
  <a href="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true">
    <picture>
      <source srcset="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true" media="(prefers-color-scheme: dark)">
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=false&background_color=777777&interchange=false&bar_color=4e62b1&bar_color_cover=true" alt="Spotify recently played" height="400px"/>
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=false&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true" alt="Spotify recently played" height="400px"/>
    </picture>
  </a>
 </div>
