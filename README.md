@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Priyanshu Agrawal, and I'm a Full Stack Developer from India</h2>
+<h2 align="left">Namaste 🙏! My name is Priyanshu Agrawal, and I'm a Full Stack Developer from India </h2>
 
 ###
 <div align='center'>
@@ -66,7 +66,7 @@ Happy coding, dear companions! 😊🚀</p>
    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&border_radius=5" media="(prefers-color-scheme: dark)">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Agrawal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&border_radius=5" alt="languages graph" height="150">
  </picture>
- 
+ <br>
  <picture>
    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=tokyonight&hide_border=true&mode=weekly&border_radius=5" media="(prefers-color-scheme: dark)">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Agrawal&theme=default&hide_border=false&mode=weekly&border_radius=5" alt="Priyanshu-Agrawal's Streak" height="180">
@@ -143,5 +143,5 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 
 ###
-
+<h2>Jai Shree Ram <img src="https://www.pngall.com/wp-content/uploads/4/Plain-Orange-Flag-PNG-Image.png" height="25"/></h2>
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&interchange=false&bar_color=4e62b1&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ndtb2en0bqgevlmxlt80f6vhl&redirect=true) -->
