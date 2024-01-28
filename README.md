@@ -4,11 +4,14 @@
 <div align='center'>
   <a href="https://github.com/Scripting-Bear">
 <!--     <img align="center" height="200" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/myLogo-removedBG%20copy.svg?alt=media&token=812a4d4a-ec55-40c3-9938-29c2d0e651a0"  /> -->
-    <img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/my_logo_recoloration-removebg-preview.png?alt=media&token=e73e09d6-96d8-498c-a848-fbf39d765da1"  />
+    <!--<img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/my_logo_recoloration-removebg-preview.png?alt=media&token=e73e09d6-96d8-498c-a848-fbf39d765da1"  />-->
+    <!--<img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/PNG%20logo%20gradient.png?alt=media&token=10a3afc3-2aa5-4427-aca3-c97440fe925a"  />-->
+    <img align="center" height="220" src="https://firebasestorage.googleapis.com/v0/b/scriptingbear-5fe87.appspot.com/o/PNG%20logo.png?alt=media&token=1b002afd-af84-49d5-8153-4bc95af41406"  />
     <br>
     <picture>
-   <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&lines=Priyanshu+Agrawal;Scripting+Bear" media="(prefers-color-scheme: dark)">
+   <source srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&color=ffffff&lines=Priyanshu+Agrawal;Scripting+Bear" media="(prefers-color-scheme: dark)">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&color=044655&lines=Priyanshu+Agrawal;Scripting+Bear" alt="Typing SVG" />
+    <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=283&center=true&width=200&color=044655&lines=Priyanshu+Agrawal;Scripting+Bear" alt="Typing SVG" />-->
  </picture>
   </a>
 </div>
