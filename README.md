@@ -122,8 +122,7 @@ Happy coding, dear companions! 😊🚀</p>
   <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 4 mins     ██████████████████░░░░░░░   72.03 %
-JavaScript   25 mins         ███████░░░░░░░░░░░░░░░░░░   27.97 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
