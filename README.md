@@ -122,8 +122,7 @@ Happy coding, dear companions! 😊🚀</p>
   <!--START_SECTION:waka-->
 
 ```txt
-Other        29 mins               ████████████████████████░   96.62 %
-TypeScript   1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Other   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
